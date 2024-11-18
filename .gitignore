@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/node_modules/
+/client/node_modules/
+/server/node_modules/
+
+# Build directories
+/dist/
+/client/dist/
+/server/dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Cache and temp files
+*.cache
+*.tmp
+*.temp
+/.vscode/
+*.swp
+
+# IDE-specific files
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage and test results
+/coverage/
+/jest-cache/
+/jest-config/
+
+# Miscellaneous
+/.husky/
