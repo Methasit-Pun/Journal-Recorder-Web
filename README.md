@@ -144,4 +144,3 @@ For inquiries or feedback, feel free to reach out:
 
 --- 
 
-Let me know if you'd like to customize anything further!
