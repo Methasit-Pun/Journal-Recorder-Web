@@ -3,7 +3,6 @@
 A web application that helps users transcribe their spoken words into journal entries using voice recognition. Perfect for those moments when you're too exhausted to write but still want to document your day.
 
 ---
-
 ## **Features**
 
 - **Speech-to-Text**: Record your voice, and the app will transcribe it into text.
@@ -133,13 +132,13 @@ Contributions are welcome! Please follow these steps:
 ## **License**
 
 This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## **Contact**
 
 For inquiries or feedback, feel free to reach out:
 - **Email**: methasitpun@gmail.com
+
 - **GitHub**: [Methasit-Pun](https://github.com/Methasit-Pun)
 
 --- 
