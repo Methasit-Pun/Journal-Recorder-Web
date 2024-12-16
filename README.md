@@ -1,4 +1,4 @@
-# **Journal Recorder Web** 📝
+# **Journal Recorder Web** 📝 (70% Completed)
 
 A web application that helps users transcribe their spoken words into journal entries using voice recognition. Perfect for those moments when you're too exhausted to write but still want to document your day.
 
