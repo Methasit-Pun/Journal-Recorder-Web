@@ -56,6 +56,8 @@ cd journal-recorder-web
    npm run dev
    ```
 
+   
+
 ### **Setup Backend**
 1. Navigate to the server folder:
    ```bash
